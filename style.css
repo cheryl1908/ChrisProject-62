@@ -1,0 +1,18 @@
+#IPL {
+    width: 100%;
+    height: 800px;
+    background-color:floralwhite;
+    text-align: center;
+}
+#grid {
+    width: 100%;
+    height: 800px;
+    background-color:azure;
+    text-align: center;
+}
+#sliding {
+    width: 100%;
+    height: 800px;
+    background-color: seashell;
+    text-align: center;
+}
